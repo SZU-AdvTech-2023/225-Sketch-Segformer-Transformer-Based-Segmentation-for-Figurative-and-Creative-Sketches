@@ -1,0 +1,9 @@
+@article{REPO225,
+    author = "Zheng, Yixiao and Xie, Jiyang and Sain, Aneeshan and Song, Yi-Zhe and Ma, Zhanyu",
+    journal = "IEEE Transactions on Image Processing",
+    number = "",
+    pages = "4595-4609",
+    title = "{Sketch-Segformer: Transformer-Based Segmentation for Figurative and Creative Sketches}",
+    volume = "32",
+    year = "2023"
+}
